@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Aathif 👋</h1>
 <h2 align="center">Data Science Enthusiastic</h2>
-<br>
+
 
 - 🔭 I’m currently working on **Data Engineering Projects**
 
